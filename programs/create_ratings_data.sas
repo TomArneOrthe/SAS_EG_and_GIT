@@ -9,3 +9,6 @@ datalines;
 4, Really liked it
 5, Loved it
 ;
+
+data _null_;
+run;
