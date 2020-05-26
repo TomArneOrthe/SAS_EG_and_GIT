@@ -10,5 +10,6 @@ datalines;
 5, Loved it
 ;
 
+/* Dummy data step */
 data _null_;
 run;
