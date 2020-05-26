@@ -11,4 +11,5 @@ datalines;
 ;
 
 data _null_;
+  set ratings;
 run;
