@@ -12,4 +12,5 @@ datalines;
 
 /* Dummy data step */
 data _null_;
+  set ratings;
 run;
